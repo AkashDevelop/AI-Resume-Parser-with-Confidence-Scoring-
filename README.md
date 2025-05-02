@@ -45,7 +45,9 @@ Date Normalization     | 📅 Unified formatting  | ⚠️ Raw strings
 Skill Inference        | 🧠 Context-aware      | ⚠️ Keyword matching
 Education Extraction   | 🎓 Structured degrees | ⚠️ Unstructured text
 
+---
 
+![Image](https://github.com/user-attachments/assets/e3e68e5f-2a63-4bec-ab55-a75d6a39fdff)
 
 ## ⚙️ Installation
 
