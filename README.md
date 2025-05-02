@@ -12,6 +12,12 @@
 
 ---
 
+## 🧠 Project Overview
+
+**Resume Intelligence Engine** is an AI-powered PDF parser that transforms unstructured resume data into structured JSON with confidence scoring. Leveraging hybrid text extraction (PyMuPDF for text-based PDFs + Tesseract OCR for scanned files), it intelligently identifies 11 key resume elements including skills, experience timelines, and education history. Features include:
+
+---
+
 ## 🚀 Features
 
 - ✅ **Multi-Format PDF Handling** (Text + Scanned)
